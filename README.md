@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hello! 🦀☕⚡
+I'm Muhammad Liaqat Shehzad, I'm a Front End Developer, passionate about technology
+
+2 Years of experience in JavaScript Web Development (and still learning), building applications for the E-Commer and Fintech industry. I code in JavaScript, TypeScript, HTML-5,CSS3,SCSS,Bootstarp.
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/liaqatshehzad) 
