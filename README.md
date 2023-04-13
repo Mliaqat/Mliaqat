@@ -17,8 +17,6 @@ I'm Muhammad Liaqat Shehzad, I'm a Front End Developer, passionate about technol
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mliaqat&theme=react&hide_border=false&include_all_commits=true&count_private=true) <br/>   
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mliaqat&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mliaqat&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
