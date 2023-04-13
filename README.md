@@ -16,7 +16,12 @@ I'm Muhammad Liaqat Shehzad, I'm a Front End Developer, passionate about technol
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mliaqat&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mliaqat&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mliaqat&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mliaqat&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
