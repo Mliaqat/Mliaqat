@@ -2,7 +2,7 @@
 
 I'm Muhammad Liaqat Shehzad, I'm a Front End Developer, passionate about technology
 
-2 Years of experience in JavaScript Web Development (and still learning), building applications for the E-Commer and Fintech industry. I code in JavaScript, TypeScript, HTML-5,CSS3,SCSS,Bootstarp.
+Experienced Frontend Developer with 2.5 Years of proven expertise in crafting visually stunning and highly functional websites. Collaborative team player passionate about innovation and delivering pixel-perfect, user-centric solutions that exceed expectations.
 
 
 
