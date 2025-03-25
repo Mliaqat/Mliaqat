@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A passionate Front End Software Developer 🚀 having an 3+ year experience of building different Type Website with JavaScript / Reactjs / Nextjs and some other cool libraries and frameworks.
+A passionate Front End Software Developer 🚀 having an 4+ year experience of building different Type Website with JavaScript / Reactjs / Nextjs, Vue Js and some other cool libraries and frameworks.
 
 
 
